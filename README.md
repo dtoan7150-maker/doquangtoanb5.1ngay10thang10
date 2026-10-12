@@ -3,7 +3,7 @@
 ## THÔNG TIN SINH VIÊN
 
 - **Họ và tên:** Đỗ Quang Toàn
-- **Mã số sinh viên:** 34810320100
+- **Mã số sinh viên:** 24810320100
 - **Lớp:** D19QTANM1
 - **Môn học:** Lập trình .NET
 
